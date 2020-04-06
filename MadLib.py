@@ -1,0 +1,2 @@
+print("Do you {} your {} {} {}? That's hilarious!".format(input("Enter a verb: "), input("Enter an adjective: "),
+                                                          input('Enter a noun: '), input('Enter an adverb: ')))
